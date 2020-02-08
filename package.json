@@ -1,0 +1,22 @@
+{
+  "name": "loglayer-connect",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayanika/loglayer-connect.git"
+  },
+  "author": "Ivan Trukhnii",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/mayanika/loglayer-connect/issues"
+  },
+  "homepage": "https://github.com/mayanika/loglayer-connect#readme",
+  "dependencies": {
+    "faye": "^1.2.4"
+  }
+}
